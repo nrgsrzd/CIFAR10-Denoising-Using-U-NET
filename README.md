@@ -15,5 +15,10 @@ This project implements a Unet neural network for removing noise from images in 
 This code defines a UNetWithAttention neural network model for image denoising, which improves accuracy by using attention blocks. The model is trained on preprocessed data using PyTorch and the results and accuracies are reported and visualized for the training, validation, and test stages. Overall, the UNetWithAttention architecture is effective for image denoising tasks in the CIFAR-10 dataset.
 
 # Result
+Unet Result:
 ![alt text](Results/Unet.png)
+Unet-Attention Result:
+![alt text](Results/Attention.png)
+Compare:
+![alt text](Results/result.png)
 
