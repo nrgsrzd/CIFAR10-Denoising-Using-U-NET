@@ -11,8 +11,9 @@ Preprocessing is a crucial step in machine learning tasks, as it significantly a
 # Unet Neural Network for Image Denoising in CIFAR-10
 This project implements a Unet neural network for removing noise from images in the CIFAR-10 dataset. The Unet model is trained on preprocessed data using PyTorch, and the results and accuracies obtained in the training, validation, and test stages are reported and visualized. This project demonstrates the effectiveness of the Unet architecture for image denoising in CIFAR-10, providing a valuable resource for researchers and practitioners in the field of computer vision and machine learning.
 
-
 # UNet With Attention Neural Network for Image Denoising
 This code defines a UNetWithAttention neural network model for image denoising, which improves accuracy by using attention blocks. The model is trained on preprocessed data using PyTorch and the results and accuracies are reported and visualized for the training, validation, and test stages. Overall, the UNetWithAttention architecture is effective for image denoising tasks in the CIFAR-10 dataset.
 
 # Result
+![alt text](Results/Unet.png)
+
